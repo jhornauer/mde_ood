@@ -116,11 +116,13 @@ Please use the following citations when referencing our work:
 **Out-of-Distribution Detection for Monocular Depth Estimation**
 *Julia Hornauer, Adrian Holzbock, and Vasileios Belagiannis* **[[paper]](https://arxiv.org/pdf/2308.06072.pdf)**
 ```
-@article{Hornauer2023MDEOOD,
-  title={Out-of-Distribution Detection for Monocular Depth Estimation},
-  author={Hornauer, Julia and Holzbock, Adrian and Belagiannis, Vasileios},
-  journal={arXiv preprint arXiv:2308.06072},
-  year={2023}
+@InProceedings{Hornauer_2023_ICCV,
+    author    = {Hornauer, Julia and Holzbock, Adrian and Belagiannis, Vasileios},
+    title     = {Out-of-Distribution Detection for Monocular Depth Estimation},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2023},
+    pages     = {1911-1921}
 }
 ```
 
